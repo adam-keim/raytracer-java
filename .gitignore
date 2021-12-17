@@ -1,0 +1,4 @@
+*.ppm
+*.obj
+.DS_Store
+target/
